@@ -1,0 +1,115 @@
+The NRC and NRR have been tracking reactor events for many years.  After the detection of severe vessel head degradation at the Davis-Besse nuclear power plant, the NRC revamped its methods for collecting, analyzing, and communicating operational events.  The NRC formally established the Operating Experience Branch in January 2005 as a result of recommendations by the Davis-Besse Lessons Learned Task Force.
+
+In 2002, the Davis-Besse Lessons Learned Task Force identified substantial shortcomings in agency operating experience activities.  This finding led NRR and RES to jointly charter an interoffice Reactor Operating Experience Task Force (ROETF) to formally assess agency operating experience activities and to recommend specific program improvements.  Appendix A to the ROETF Final Report, “Reactor Operating Experience Task Force Report,” issued November 2003 (ML033350063) lists 24 specific recommendations for improving agency activities to collect, evaluate, communicate, and apply operating experience.  The plan for implementing the ROETF recommendations, issued April 2004 (ML041180026), addressed implementation of 21 of the 24 recommendations. Of the three remaining recommendations, two related to the RES Generic Issues Program and the third required no action.
+
+On the basis of the ROETF recommendations, NRR and RES developed MD 8.7, “Reactor Operating Experience Program,” and NRR Office Instruction, LIC-401, “NRR Reactor Operating Experience Program”, to provide agency-level guidance for implementation of the OpE Program.
+
+Products
+The Operating Experience branch provides operating experience information through different platforms including, but not limited to, Operating Experience Communications, Operating Experience Smart Samples, Generic Communications, the Clearinghouse, and dashboards. NRC staff can request to receive operating experience information by sending an email to NRR_DRO_IOEB.Resource@nrc.gov.
+
+Operating Experience Communications (OpE COMMs)
+OpE COMMs are used to send information concerning significant events, adverse trends, or issues of general interest to NRC staff. The OpE COMM SharePoint Site contains COMMs issued in chronological order from the most recent. 
+
+There are several different COMM groups where NRC staff can subscribe to receive OpE COMMs relevant to their interests, or all OpE COMMs issued.  Examples of COMM groups include: containment, emergency diesel generators, electrical power systems, instrumentation & control, etc. 
+
+Operating Experience Smart Samples (OpE SSs)
+Operating Experience Smart Samples are designed to provide NRC inspection staff a detailed synopsis of selected operating experience which may have generic safety implications. The OpE SS is an additional tool that can be used by inspection staff in ROP baseline inspections. The information and trends identified from OpE SS inspections may provide further indication that a specific issue warrants additional agency action.
+
+In addition to providing NRC inspectors with informational tools to assist in their inspections, documentation of using OpE SSs in inspection reports provides the NRC with a method of evaluating the extent of suspected generic safety items.
+
+Inspection procedures have any potentially applicable OpE SSs listed in the last column of the public IMC Inspection Procedures listings page. All available OpE SSs are listed on the IOEB Sharepoint site for OpE SSs, and on the public site for OpE SSs.
+
+Issue for Resolution (IFR)
+Significant operating experience events may be evaluated using the Issue for Resolution (IFR) process. In this process, relevant past operating experience is collected and analyzed with any appropriate technical experts to develop any recommendations. Completed IFRs are listed on the IOEB Sharepoint site for IFRs.
+
+Generic Communications
+Provide communications to industry regarding matters of generic applicability through its generic communications program. Any NRC office may propose a generic communication on an issue within its purview. There are four types of generic communications currently in use: bulletin, generic letter, regulatory issue summary, and information notice. NRR has primary oversight responsibility for administering the NRC generic communications program and for ensuring the appropriate application of generic communications. Generic communications stem from a disciplined process for the evaluation of emergent issues.
+
+The Generic Communications Desktop Guide provides different resources, including a handbook, to understand and develop a generic communication.
+
+Clearinghouse
+
+High-Level Overview of Clearinghouse Process
+Function
+The OpE Clearinghouse provides the centralized function within the agency to (1) collect, store, screen, prioritize, and distribute OpE information to interested users, (2) facilitate and track OpE evaluation and application activities, (3) assist in the communication of OpE lessons learned, and (4) coordinate NRC OpE activities among organizations performing OpE functions.  Although the majority of the staff in the OpE Clearinghouse are NRR staff, the OpE Clearinghouse includes staff from OE, RES, and NSIR.
+
+At the end of each Clearinghouse meeting, an email is sent to relevant Technical Review Groups (described below) providing the latest operating experience.
+
+Technical Review Groups (TRGs)
+The TRGs are comprised of NRC staff who have subject matter expertise in one or more technical areas related to power reactor operations, systems, or oversight.  The purpose of the TRG program is to provide regular, systematic, two-way information flow between Operating Experience staff and NRC technical experts.  TRG members and leads receive Clearinghouse emails.
+
+Staff can volunteer, via their management, to be TRG members or leads.  They will then be added to the TRG Roster, which is maintained on the TRG Sharepoint Page.  Operating Experience Staff will provide periodic Training on the TRG process.  TRG members are provided access to the Reactor Operating Experience Database, which allows them to search for any operating experience issues related to their TRG.
+
+Data Analytics
+
+Data Analytics Process
+IOEB has created several dashboards which provide search capabilities and a visual display of data.  
+
+Operating Experience Dashboards
+Findings Search Tool
+The Findings Search Tool contains several dashboards describing information on Findings and Violations dating back to 2001.  These dashboards allow users to search for keywords and apply filters to find specific relevant reports.  Among other options, users can also filter by Region, Significance (Green, White, etc), Site, Cornerstone, and Cross Cutting Aspects. 
+
+Visuals display information on trends and distributions.
+
+OpE Document Search Dashboard
+The OpE Document Search dashboard allows users to keyword search various documents (e.g., Bulletins, Information Notices, Part 21 Reports, etc.) and filter by date.
+
+Risk Concept Dashboard
+The Risk Concept dashboard allows for users to get an overview of risk at a selected site.  The dashboard displays visuals describing the percent contribution to CDF by an initiating event and the component Birnbaum treemap.
+
+Scrams Dashboard
+The Scrams Dashboard provides information including the total number of scrams to date this year, monthly, and over the past 10 years.
+
+COVID-19 Dashboards
+In response to COVID-19, the Operating Experience staff developed two dashboards to track the effects of the virus at each site and current conditions in the surrounding area of the site. A user can filter by region to see the total number of positives as provided by Johns Hopkins.
+
+COVID Impacts
+The COVID Impacts dashboard contains two dashboard on licensing actions and operating reactors. The licensing action dashboard provides types of licensing actions including exemptions, LARs, and relief requests with respect to COVID-19. The operating reactors dashboard provides information on the NRC and licensee response at each site and the cumulative total number of positives at the site.
+
+Site Recovery Status Dashboard
+The Site Recovery Status dashboard contains dashboards for each region overall and displays the latest COVID statistics for the surrounding areas at each site. It includes information on daily new cases and the 14-day rolling average. Users can select a specific site to get information on the site and local area COVID positive trends, stay-at-home orders, and travel restrictions.
+
+Dashboard Development Tools
+A dashboard development community meets regularly to discuss the latest dashboards being developed and also provides training on different data visualization tools.
+
+Resources
+IRIS (INPO)
+The Institute for Nuclear Power Operations (INPO) maintains an IRIS database where the industry provides information including an abstract, event sequence, causes, and corrective actions taken after an event. IRIS reports are not publicly available. To request a specific IRIS search, please contact the Regional Points of Contact described in the table below.
+
+IRS (International)
+The International Reporting System for Operating Experience (IRS) is an international system jointly operated by the International Atomic Energy Agency (IAEA) and the Nuclear Energy Agency of the Organisation for Economic Cooperation and Development (OECD/NEA). It was established following the Three Mile Island accident as a way to share operating experience in the international arena. The fundamental objective of the IRS is to improve the safety of commercial nuclear power plants (NPPs) which are operated worldwide. This objective can be achieved by providing timely and detailed information on both technical and human factors related to events of safety significance which occur at these plants.
+
+Reports are significantly more detailed than those which appear on the INES website, and generally describe events from a year or two earlier.
+
+International Nuclear and Radiological Event Scale (INES)
+INES was established by IAEA in 1990 following the accident at Chernobyl as a vehicle for promptly informing the international community of safety significant reactor events.  The scale is designed to provide a quick, quantifiable reference for how serious a reactor (or materials) event is to aid in communication with the public and with international regulatory agencies. The scale has 7 levels that increase with severity. The operating experience staff rates all reactor-related ENs each day against the criteria in the current INES User Manual.  The NRC has committed to reporting any events rated Level 2 or higher within 2 business days.
+
+Additional information regarding the INES process is available in Management Directive MD 5.12, “International Nuclear and Radiological Event Scale (INES) Participation” (ML11285A071), or in the INES User Manual (ML092230008).  
+
+ROE Database
+The Reactor Operating Experience Database (ROE) is the centralized source of OpE items screened by IOEB Clearinghouse personnel. To gain access to the database, please email NRR_DRO_IOEB.Resource@nrc.gov.
+
+Items such as event notifications, licensee event reports, and Part 21 reports are automatically added for OpE screening.  Clearinghouse personnel also listen in on regional status calls and manually add items for screening. Clearinghouse personnel typically meet multiple times a week to screen items to be forwarded to Technical Review Groups, consider opening Issues for Resolution, and/or share the items with the NRC’s international counterparts.
+
+The initial ROE screen shows items currently pending screening. Past screening items can be viewed by clicking the magnifying glass icon in the upper right of the initial ROE screen.  On the search screen, items can be viewed by month or through a typical search query.
+
+Event Notifications and Licensee Event Reports
+Event notifications (ENs) and Licensee Event Reports (LERs) are submitted by licensees in accordance with 10 CFR 50.72 and 10 CFR 50.73 respectively. In some cases, events are reportable under both 10 CFR 50.72 and 10 CFR 50.73.  As such, both the EN and LER will be screened separately by the OpE Clearinghouse. 
+
+If an event meets the criteria of 10 CFR 50.72, it is reported within the time range of immediate, 1-hour, 4-hours, or 8-hours as required.  These reports are received by the HOO.  They can be accessed directly from the Reactor OpE Information Gateway under the “Daily Reports” tab.  Publicly available ENs can be found on the NRC public website under the “NRC Library” tab in Document Collections as Events, Reports. Additionally, the Headquarters Operations Officer (HOO) sends out a Morning NRR email that provides this information.
+
+Regional Calls / NITA Information
+NRC regional offices conduct periodic status and event briefings throughout the week.  The NRC Issue Tracking Application (NITA) is used by Regions I, II, and III to track plant status and issues.  During these meetings, regional branch chiefs brief regional management on any events that occurred at plants, upcoming significant plant activities, and other regulatory issues. 
+
+IOEB participates in these meetings to provide the latest information to the TRGs via the Clearinghouse. 
+
+The Operating Experience Regional Points of Contact are listed in the table, below.
+
+Operating Experience Regional Points of Contact
+Region	Point of Contact
+1	Mark King
+2	Huda Akhavannik
+3	Chris Speer
+4	Stephen Pannier
+10 CFR Part 21 and 50.55(e) Subject Reports
+The identification, evaluation, and reporting of defects to basic components that could cause a substantial safety hazard are required under 10 CFR 21 and 10 CFR 50.55(e).  The guidance for identifying, processing, publishing, and screening these reports is found in NRR Office Instruction LIC-403, “Procedures for Handling Deficiency Reports (10 CFR Part 21, 10 CFR Part 50.55(e)).”  The NRC public website contains a list of Part 21 reports.

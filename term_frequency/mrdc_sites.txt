@@ -1,0 +1,520 @@
+The U.S. Army Medical Research and Development Command manages and executes research in five basic areas: military infectious diseases, combat casualty care, military operational medicine, chemical biological defense, and clinical and rehabilitative medicine. The USAMRDC is program coordinator for DoD medical research programs focused on the prevention, mitigation and treatment of blast injuries as well as the manager for the JTAPIC program which informs solutions that prevent or mitigate injury during the full range of military operations, by collaborative collection, integration, analysis and storage of data from operations, intelligence, materiel and medical sources.
+
+The Principal Assistant for Research and Technology (PART) serves as the Technical Director and Chief Scientist for all of the Command's assigned Science and Technology (S&T) Programs and as senior executive-level representative at meetings and other decision-making forums including all government agencies, congressional offices, academia, and private industry. In addition to providing executive-level oversight and management of the Command's medical S&T investment strategy, the PART ensures responsive focus on Warfighter medically-related information and materiel needs, integrates with emerging concepts of continuity of healthcare for the full spectrum of military operations, and, ensures a sustainable S&T infrastructure to support those needs and concepts.
+
+PART soldiers
+ 
+In coordination with other Headquarters USAMRDC Staff Principals, the PART develops, oversees, and has final authority for transparent and inclusive business processes required to meet DHA mission responsibilities. They also lead USAMRDC staff support in development of Joint Program Committee (JPC) research programs, and provides execution guidance that is consistent with DHA intent. The PART directly supports the Director of Defense Health Agency Research, Development, and Acquisition Directorate (DHA RDA). The mission of the PART involves assuring total integration of Defense Health Program and Army investment programs against Joint and Service requirements, and assuring compliance with policy and program guidance, and established processes for all investment strategies and recommendations to the DHA RDA Director.
+
+Lines of Effort (LOE)
+The PART continues driving the MRDC S&T enterprise to address Army priorities. Recent guidance from the Army Futures Command (AFC) to focus S&T investments shapes the PART's strategic initiatives for the MRDC S&T enterprise. AFC guidance includes:
+
+The evaluation of state of the art and convergence points of technologies across academia, industry, and other Government Agencies to determine where Army should lead, shape, and watch;
+Building and maintaining core competencies that are inherent to the Army that Universities and Industry cannot/will not do;
+Evaluating in-house/out-house financial/manpower information;
+Developing near-term solutions based on assessments and identifying requirements the proposed S&T plans are addressing; and,
+Addressing the Army's Modernization Priorities and Cross-Functional Teams in addition to S&T efforts directed towards Combat Casualty Care and Soldier Readiness.
+The PART's diverse customer set also requires a focus on Joint S&T priorities resourced through the Defense Health Program and the Chemical Biological Defense Program. The PART continues engaging in Joint S&T planning activities to invest, innovate, and transition technical solutions in Combat Casualty Care, Military Operational Medicine, Military Infectious Diseases, Clinical and Rehabilitative Medicine, Medical Simulation and Information Sciences, and Medical Chemical Biological Defense. The PART also works closely with the Congressionally Directed Medical Research Programs (CDMRP) to provide strategic directions for Congressional Special Interest programs supporting S&T priorities of interest to the Army and Joint Force.
+
+The mission of the Military Infectious Diseases Research Program (MIDRP) is to protect the U.S. military against naturally occurring infectious diseases via the development of the U.S. Food and Drug Administration (FDA) approved vaccines, drugs, and diagnostic assays and Environmental Protection Agency (EPA) approved vector control protection systems (to prevent transmission of infections by insects, ticks, etc.).
+
+Up arrow top
+
+Background and Environment
+Infectious diseases historically cause more casualties than enemy fire in deployment to tropical regions. The impact on soldiers ranges from loss of man-days to death and can severely hamper combat effectiveness while increasing the logistical burden for diagnosis, treatment and evacuation.
+
+The Military Infectious Diseases Research Program manages research for the DoD on naturally occurring infectious diseases with a focus on protecting the warfighter through development of vaccines, drugs, diagnostics and vector control. The U.S. military has had notable successes in this undertaking (since World War I, deaths from naturally occurring infections have not exceeded deaths due to combat injury in wartime). MIDRP's role is of continuing importance because diseases such as malaria, dengue, diarrhea and leishmaniasis continue to have an adverse impact on military operations and the health of service members. MIDRP has supported HIV vaccine research and development since 1985 as HIV remains a significant threat to service members deployed overseas and is a major source of regional instability in areas of US force protection. The MIDRP HIV research program is heavily leveraged against efforts of other US government agencies. NIAID is a major partner of MIDRP supported HIV vaccine development activities.
+
+More than 300 MD and PhD level Army, Navy, Air Force, Government Service civilian, and contract investigators lead MIDRP R&D efforts. These research professionals are stationed at major infectious diseases research laboratories in Maryland - the Walter Reed Army Institute of Research, the Naval Medical Research Center, and the United States Army Medical Research Institute of Infectious Diseases - and overseas - Peru, Egypt, Kenya, Thailand, and Indonesia. The U.S. military has stationed uniformed scientists in the tropics for more than 100 years, and itsh active overseas laboratories have been in place for as long as 58 years. Military scientists live and work in the tropics to study the disease threats in naturally affected populations. Countermeasures and candidate solutions are studied through all phases of development including field testing. These military scientists serve as goodwill ambassadors, and contribute to developing health and science infrastructure in these tropical countries. Enduring relationships between tropical DoD facilities and ministries of health, international healthcare facilities, and local healthcare providers and researchers are of great value to the U.S. at a time when diseases such as SARS and avian influenza are potential global threats. The global MIDRP military presence provides a real-time early warning system in the identification and assessment of new and reemerging disease. Data from around the world is collected, analyzed, and immediately disseminated to military leadership and other agencies by the military's DoD Global Emerging Infections Surveillance and Response System (DoD-GEIS) at the Armed Forces Health and Surveillance Center (AFHSC).
+
+The MIDRP's capabilities include basic science (discovery and the knowledge base to develop technological approaches) pre-clinical product optimization, and advanced animal model development. Clinical trials expertise for early FDA Phase 1 testing of drugs and vaccines through large (e.g. 42,000 volunteers for hepatitis A vaccine, and 62,000 volunteers for Japanese encephalitis vaccine) pivotal Phase 3 trials in developing nations is an especially valuable asset of the MIDRP. The DoD also has high containment laboratories, pilot Good Manufacturing Practice (GMP) compliant bioproduction facilities, and FDA regulatory expertise in the U.S. and in many international settings.
+
+Up arrow top
+
+Goals and Objectives
+The Military Infectious Diseases Research Program (MIDRP) has the unique goal of developing and fielding medical products (i.e., vaccines, therapeutics, diagnostics, etc.) to prevent U.S. service members from becoming ill from naturally occurring infectious diseases they may be exposed to while they're deployed far from home. While this mission shares some common research goals with other U.S. government and international research organizations, the U.S. military often has unique needs that are often inadequately addressed by these agencies. The goal of developing a vaccine to prevent malaria, a very important and debilitating disease that can rapidly render a fighting force ineffective, is but one example. The focus of the international community is to develop a malaria vaccine that will prevent death in young children and pregnant women in areas of the world where if they can survive the disease, they will develop some natural immunity. While MIDRP scientists actively support and collaborates in these efforts where the respective goals are similar, the military needs a malaria vaccine that will protect its service members who have no prior natural immunity that will enable them to avoid mission-degrading illness and which is also approved by the U.S. FDA. Preventing death in children and keeping soldiers healthy and effective are very distinct goals requiring significantly different research strategies and products.
+
+Other diseases that can uniquely impact the military which are not addressed by other programs include:
+
+U.S. FDA approved Adenovirus vaccines to protect military recruits from acute respiratory disease while they're in the unique environment of basic training
+FDA approved HIV/AIDS vaccines to protect the U.S. military against HIV strains found outside the U.S.
+FDA approved rapid diagnostic tests for leishmaniasis (one of many tropical diseases where there is little national interest outside of DoD)
+Other research programs focus on diarrhea, a major cause of lost duty days, dengue fever for adult populations, scrub typhus, hemorrhagic fevers and other unusual and potentially deadly viruses found overseas. These are diseases of DoD interest yet minimal research efforts exist within other national research programs that would support use by the military. The MIDRP also develops preventive medicine products to reduce insect and vector-borne disease transmission such as improved repellents suitable for the military operational environment, bednets and other products for preventive medicine officers that enhance their ability to assess disease threats in the field. An example of such a success is DEET. This repellent was developed in collaboration with the USDA, introduced to the public in the 1950s and has become, by far, the most common repellent used throughout the world today.
+
+Up arrow top
+
+Key Themes and Messages
+As important as the talented researchers, modern facilities and sophisticated equipment are; the MIDRP has successfully developed candidate products from basic science concepts through pilot scale manufacturing and all phases of animal and clinical evaluation. The program particularly excels at "translational research" where new products are moved from the technology base to a level where a commercial partner will take the product on to licensure and marketing to the U.S. military and civilian population. GlaxoSmithKline, sanofi-pasteur, Barr Pharmaceuticals, Pfizer and many other corporations, as well as nonprofit and other governmental organizations such as the gates Foundation, USAID, NIH, continue to confidently partner with the DoD to get products to the commercial market and the U.S. service member. One of the program's major strengths is the recognition by these partners of the DoD's neutrality (lack of profit motive) as it pursues its service mission. The trust that this engenders facilitates collaborations that would not otherwise be contemplated, allowing the sharing of trade secrets and the testing of many promising new technologies. These unique partnerships drive scientific discovery at a pace rarely achieved by the private sector.
+
+The Army is the lead Service of this DoD program and it receives approximately $70 million of appropriated funds annually for infectious diseases research - less than 2 percent of the NIH total spending on infectious diseases and immunology research. The DoD maximizes the use of its limited resources by successfully partnering with other federal agencies, non-governmental organizations, and the pharmaceutical industry to focus on the unique infectious disease research and prevention needs of the U.S. military.
+
+Infectious diseases continue to impact operational forces. More service members are hospitalized more often for infectious diseases than those who are wounded in combat. Infectious diseases also place a significant burden on the medical logistical system for people requiring treatment or hospital space. The loss of personnel to infectious diseases reduces operational readiness and effectiveness by requiring replacement troops.
+
+Cutaneous leishmaniasis, a disease transmitted by sand flies, had a major impact early in Operation Iraqi Freedom. More than 1,700 personnel were diagnosed with this disease, and many had to be evacuated to the United States for treatment, which majorly impacted treatment facilities. The impact of malaria was seen in Vietnam, where 25% of all Army troops suffered with this disease. Malaria remains a militarily-relevant disease as evidenced in 2003 when 44% of 268 Marines conducting a 2-week mission in Liberia were rapidly rendered ineffective due to malaria. About 40 of them were evacuated to the United States for treatment, and 4 developed severe symptoms. Fortunately, no one died from the infections.
+
+The focus of MIDRP is to develop countermeasures against diseases our deployed military forces will likely encounter. Most of these diseases are not of concern in the United States. Preventing disease is a force multiplier by keeping people healthy and by enhancing readiness. Unfortunately, a major focus in much of the civilian research community is on treating and not preventing these diseases. For many diseases in this program, there are no other directed research efforts to develop preventive countermeasures required by our military. Focus on prevention helps maximize the military's ability to accomplish its mission around the world.
+
+Developing vaccines and drugs are a challenge - scientists all over the world are still trying to learn the basic biological principles that make them work. Making safe and effective vaccines and drugs as countermeasures for different microorganisms is highly empirical. Vaccine and drug development is also a high-risk, high-cost venture, with most vaccines and drugs failing in human clinical trials. As such, there is a requirement for continued technology development to provide a robust pipeline of new technologies and materials to replace those that have failed.
+
+
+Besides the technical issues, major constraints on making vaccines are the high costs of development and the need to conduct human clinical trials in a safe and acceptable way. The ability to move forward in clinical testing is dependent on demonstrating that the vaccine/drug is safe in both short- and long-term studies. Conducting trials also is impacted by the ability to recruit subjects into the trials and to complete the studies. Compiling, verifying, and analyzing clinical trial results require considerable time. The next required clinical trial is often dependent on completing a previous trial that may take 1 to 4 years to complete, and FDA licensure often takes many months of evaluation after trials are completed.
+
+Therapeutics, vaccines, diagnostic devices (FDA), and certain other products such as insect repellents (EPA) are, by law, regulated by the U.S. government to ensure the products are safe and effective. Safety concerns are the primary driver for the guidelines and processes in place to ensure individuals and the environment are not harmed by the products being developed and marketed. In recent years, the level and complexity of regulatory oversight have increased significantly, resulting in longer development times.
+
+ The FDA and EPA processes allow for open discussion between product developers and regulatory staffs. However, due diligence by the agencies is the primary concern, and any concerns for safety or effectiveness can result in programs being justifiably slowed or stopped until these concerns are eliminated.
+
+Congress started the DoD HIV program in 1985. At the time, the impact of HIV on the military was unclear, and with the DoD's history as a vaccine developer, Congress hoped to provide a mechanism to test HIV vaccines within the context of the DoD laboratories. This effort is now being conducted in a partnership with the National Institute of Allergy and Infectious Diseases.
+
+As indicated previously, the DoD must protect its forces from diseases that may impact the ability to complete missions. This does not necessarily align with the needs of the public health community where most efforts are directed at reducing mortality rates. For example, the international malaria effort is dedicated to preventing death in children in endemic areas so that they can acquire immunity and lead more productive lives, whereas the U.S. military's goal is to prevent troops from becoming ill. These are very different efforts requiring different technologies.
+
+MIDRP makes contributions in four main areas:
+
+Drugs: MIDRP has contributed to the development of most synthetic drugs licensed in the United States for the prevention and treatment of malaria. Next-generation antimalarial drugs include tafenoquine and an intravenous formulation of artesunate.
+Diagnostics: MIDRP diagnostic products include fieldworthy devices to diagnose human infections (e.g., scrub typhus) and to determine if insects are carrying infectious agents transmissible to humans (e.g., malaria parasites and West Nile virus).
+Vector Control: Vector control products include personal protective devices (e.g., insect repellents, insecticides, and bed nets) to prevent mosquitoes, ticks, and sand flies from biting service members. Additional products include computer-based systems that identify potential disease-carrying insects.
+
+Diarrhea continues to be a major problem for deployed personnel. It can cause serious dehydration and crippling disease, which impacts mission accomplishment. Some affected troops are placed on restricted duty or hospitalized for treatment. Historically, some diarrhea outbreaks have resulted in entire units becoming nonoperational.
+
+MIDRP has many successful governmental and commercial partnerships such as CRADAs, the Small Business Innovation Research Program, Congressional Special Interest-appropriated funding, and Interagency Agreements. Critical to the development of any vaccine or therapeutic is the involvement of a commercial partner that has the ability to manufacture and market medical products to those who need them. The high cost of product development usually can only be recovered and the product sustained by having a commercial market for the product. In addition, the basic research and concept development for new products involve both academic and governmental research organizations that are critical for intellectual input and for providing critical research capabilities not always available at military laboratories.
+
+The mission of the Combat Casualty Care Research Program is to reduce the mortality and morbidity resulting from injuries on the battlefield through the development of new life-saving strategies, new surgical techniques, biological and mechanical products, and the timely use of remote physiological monitoring.
+
+Up arrow top
+
+Background and Environment
+Soldiers face many threats in hostile fire arenas, whether conducting large-scale mechanized warfare, low-intensity conflicts, or operations other than war. Military casualties may wait for hours before definitive health care can be provided. Furthermore, initial treatment and subsequent evacuation occur in austere environments characterized by limited supplies and limited diagnostic and life-support equipment; and provision of acute and critical care is labor intensive and must frequently be provided by non-physician medical personnel. The primary challenge for combat casualty care research is to overcome these limitations by providing biologics, pharmaceuticals, and devices that enhance the capability of first responders to effectively treat casualties as close to the geographic location and time of injury as possible.
+
+Combat casualty care is constrained by logistics, manpower, and the hostile operational environment. Since mid-World War II, nearly 50 percent of combat deaths have been due to exsanguinating hemorrhage. Of those, about half could have been saved if timely, appropriate care had been available. Head injuries and lung injuries are also major causes of death where proper treatments and training could significantly reduce mortality and morbidity. The treatment of battlefield casualties is exacerbated by the long evacuation times often found in military operations. This requires battlefield medics and physician's assistants to stabilize patients for extended periods and makes battlefield trauma care markedly different from civilian trauma care. Because approximately 86 percent of all battlefield deaths occur within the first 30 minutes after wounding, the ability to rapidly locate, diagnose, and render appropriate initial treatments are vital to reversing the historical outcomes of battlefield injuries. The need to provide such care with a reduced logistics footprint is the cornerstone around which the future of combat casualty care research is built.
+
+Up arrow top
+
+Goals and Objectives
+The CCCRP is focused on leveraging cutting-edge research and knowledge from government and civilian research programs to fill existing and emerging gaps in combat casualty care. This focus provides requirements-driven combat casualty care medical solutions and products for injured soldiers from self-aid through definitive care, across the full spectrum of military operations. We share this mission of developing improved treatment for service members injured in combat with other organizations in the MRDC and thus focus our efforts in ten major areas of emphasis.
+
+These are:
+
+Damage Control Resuscitation
+Extremity Trauma and Regenerative Medicine
+Pain Control
+Advanced Capabilities for Emergency Medical Monitoring
+Critical Care Engineering (including Medical Knowledge Engineering)
+Clinical Trials
+Craniomaxillofacial Injury
+Blood Products
+Neuroprotection
+Neurological Effects of Blast
+Up arrow top
+
+Key Themes and Messages
+Damage Control Resuscitation (DCR)
+Hemorrhage remains the major cause of potentially preventable death on the battlefield in conventional warfare. This fact has led to significant efforts to improve the ability of soldiers to limit blood loss and treat hemorrhage at the point of injury. As a result of improved initial care, as well as rapid evacuation and positioning of surgical capabilities close to the point of injury, service members with severe injuries survive to reach field hospitals. This results in lower overall mortality by reducing the Killed in Action rate, but paradoxically, yields an increase in the Died of Wounds rate. Reducing this rate is the current focus of much of the research in Damage Control Resuscitation. It is known that severely injured casualties may develop metabolic disorders characterized by acidosis, hypothermia and coagulopathy, which are often termed "the lethal triad." This set of disorders is addressed by avoiding dilution of coagulation factors via replacement of appropriate blood products (e.g., plasma) to provide these factors, providing oxygen carrying capability (Red Blood Cells), and restoring sufficient circulating volume to restore tissue perfusion and correct metabolism. The U.S. military has implemented a change from early resuscitation using crystalloid and packed red cells to early resuscitation using equal ratios of packed red cells, plasma, and platelets.
+
+Extremity Trauma
+The majority of battlefield wounds occur to the extremities (55%) and head/neck region (30%). In the extremities, the wounds are predominantly penetrating soft tissue wounds and open fractures. Infection, delayed/nonunion of bone, and impaired/loss of muscle function are common outcomes. The Extremity Trauma and Regenerative Medicine team is addressing these problems several different ways with the goal of returning the injured Warrior to full function.
+
+First, injuries and their clinical outcomes are being defined. Until recently, there was not a good understanding of the injuries sustained by our Soldiers in ongoing conflicts. To help direct research efforts, retrospective studies are conducted to determine the incidence, rate, and qualitative outcomes of extremity injuries in the Iraq and Afghanistan conflicts.
+
+Second, pre-clinical studies are conducted to determine which therapies have the greatest clinical potential. Various animal models that mimic traumatic injury are utilized to evaluate potential therapies for infection and soft tissue and bone injury. We strive to evaluate the most advanced and promising technologies using the most clinically relevant and stringent animal models possible.
+
+Third, we conduct prospective clinical trials aimed at improving outcomes of extremity wounds.
+
+Finally, we are actively involved in extramural research programs focused on repair of extremity injuries.
+
+Pain Control
+Pain, both acute and chronic, is recognized as a leading problem among US soldiers injured on active duty or during deployments. Pain is experienced throughout the continuum of trauma care and within all ranks of the military. Recent initiatives track pain scores from as early as time of admission to the Emergency Department (ED) at Level 2 and Level 3 facilities. Preliminary results indicate that, of soldiers admitted to Level 2 and Level 3 facilities, 71% experience pain of 5 or greater on a scale of 0 to 10. Accepted clinical guidelines classify pain of 5 or greater as severe pain and recommend treating pain rated as 4 or greater. Treatment of acute pain is particularly important because recent evidence suggests that uncontrolled acute pain leads to neuronal remodeling and increased incidence of chronic pain.
+
+The over-arching focus of this research area is the study of pain from the battlefield through recovery. Particular attention is paid to identifying novel pain control techniques (including novel pain control targets) and molecular mechanisms in the pain pathway. While the recognition of pain as a disease process rather than a symptom has shed light onto the important role of pain, a more comprehensive understanding of pain has yet to be achieved. Major hurdles include the unreliability of medical records when collected from austere environments with inherently limited access and availability, and the lack of a consensus concerning the best tools to use for validating pain research.
+
+Although significant advancements have been made in the care of acute pain, we are just beginning to realize the far-reaching impacts of suboptimal pain management on health processes; these include inflammation, immunosuppression, longer hospital stays with slower recovery times, less effective physical rehabilitation, neuropsychological pathology, and poor quality of life. As leaders in the management and research into pain control, military pain specialists have established themselves as indispensable members of the combat casualty team and the soldier's primary advocate in the treatment of pain.
+
+Advanced Capabilities for Emergency Medical Monitoring
+The objective of the Advanced Capabilities for Emergency Medical Monitoring program is to conduct basic and applied research that leads to the identification and integration of physiological measures that reflect the complexity of compensatory responses by the body during the early dynamic phase(s) of hemorrhage. The goal is to apply this knowledge to the development of new technologies and devices that advance the medical monitoring capabilities of combat medical personnel for triage, diagnosis and decision-making to improve the management of combat casualties. An important research tool is a research effort focused on investigating the time course of central hemodynamics, autonomic functions, and peripheral tissue metabolism during progressive reductions in central blood volume induced by lower body negative pressure in healthy human subjects. Basic research efforts are also used to investigate and describe the physiological signals that distinguish patients with low tolerance (non-responders) to reductions in blood volume from those with high tolerance. Evolving technologies are applied to assess physiological performance to reduction in blood volume. These include measures of early and continuous alterations in central hemodynamics, autonomic functions and tissue perfusion including bioimpedance, real time measures of cardiac beat-to-beat (R-R interval) performance and waveform analysis of arterial blood pressure for stroke volume estimates and pressure oscillations, direct measurement of sympathetic nerve activity, linear and non-linear frequency analysis of R-R interval captured from a standard ECG (heart rate variability indices to assess autonomic oscillations; heart rate complexity indices), and near infrared spectroscopy (muscle oxygenation, pH, lactate). Loss of the normal relationship between the circulatory system and nervous system sympathetic activity is investigated as a potential mechanism of the poor blood pressure/tissue perfusion that occurs during progressive reductions in central blood volume. The impact of other combat-related stressors such as heat, cold, exercise and anxiety on physiological measures associated with monitoring patients with hemorrhage are investigated.
+
+Combat Casualty Care Engineering
+Combat Casualty Care Engineering (C3E) is directed at improving care by responding to a gap in critical care technology on the current battlefield, particularly at echelons 2 and higher and en route. In general, as a casualty moves to higher echelons of care, the resources available increase and care approaches, but doesn't reach, the standards of a civilian or military hospital in the continental U.S. This gap between the highest standard of care and that available at earlier echelons (and the even larger gap that exists as casualties are moved between facilities) is the target of research and development efforts in C3E.
+
+The potential impact of improvements in critical care capabilities on mortality and on resource utilization was suggested by a study that showed both Intensive Care Unit (ICU) length of stay and mortality progressively decreased at the Combat Support Hospital in Baghdad as the resources for care improved from No Intensivist, to Intensivist Consult, to Intensivist-Directed Team. However, appropriately trained personnel are often not available. The goal of C3E is to develop new systems-based technology which includes hardware and software systems which incorporate sensors, processors, and effectors to help close this care gap. Because of the heavy emphasis on trauma patient validation and rapid product delivery to the battlefield, the focus of C3E is on clinical trials in trauma and burn patients, and on product testing in clinically relevant models of severe injury where appropriate.
+
+C3E works at the interface between knowledge and devices. Examples include:
+
+Current vital signs used to diagnose and treat trauma patients do not provide an accurate assessment of the true injury severity and are only useful after patient has physiologically unstable. Advanced vital signs will be developed through research into new approaches for processing current vital signs, research on data fusion and multivariate analysis approaches for processing combinations or groups of different vital signs simultaneously, and the use of artificial intelligence technologies for learning vital sign patterns that can be used for prediction and diagnosis of the physiologic state of a casualty.
+The development of new approaches that use information technology to help the care provider port large volumes of data generated by the patient care environment into decision support systems, open-loop systems, and, eventually, fully automated control of critical care processes.
+Research into better effectors focused on ventilator systems for support of patients in austere environments. In particular, development of simplified ventilators that can be used in patients with severe traumatic brain injury, acute respiratory distress syndrome, smoke inhalation injury, pulmonary contusions, and/or massive transfusion.
+Clinical Trials
+The CCCRP Clinical Trials program is centered at the US Army Institute of Surgical Research (USAISR). The USAISR is unique within the Medical Research and Development Command because both patients and research scientists are present within the same Institute. This collaborative, integrated environment provides an opportunity to translate science into improvements in combat casualty care and deliver these improvements to the battlefield. The clinical trials program has two primary objectives. The first is to observe current combat casualties to identify emergent challenges and opportunities for improved care. The USAISR serves as the only American Burn Association verified burn center in the Department of Defense. Consequently, the USAISR receives all significant burn injured service members evacuated from the wars in Iraq and Afghanistan. As a result, we have the opportunity to observe patterns of injury and implement programs in order to prevent and better treat these burns. Examples of our findings include identification of significant numbers of waste burning accidents and implementation of an awareness program, identification of large numbers of debilitating hand burns and implementation of a rapid equipping program for fire resistant gloves, identification of thermal injury to the portions of the torso not covered by body armor and development of improved protective clothing, and identification of over resuscitation injury and implementation of a burn resuscitation flow sheet to ensure appropriate care. The second objective is to translate pre-clinical research from the other research areas at the Institute into a clinical environment for validation. Examples of this type of translational effort include testing of wound care dressings in donor sites, and assessment of damage control resuscitation strategies in the burn operating room.
+
+The USAISR Clinical Research program prides itself on being responsive to clinical problems and striving for excellence in burn care, critical care medicine, and the care of the multiply injured casualty. Critical advances in burn care and trauma care developed and tested at the USAISR have significantly improved patient survival and outcomes in combat casualties.
+
+Craniomaxillofacial Injury
+The United States Army Dental and Trauma Research Detachment (USADTRD) is the largest military dental research organization in the Department of Defense and it is the only military research facility dedicated to the study of injuries to the craniomaxillofacial (CMF) complex. Use of improvised explosive devices in Iraq and Afghanistan and the capability of body armor to decrease fatal torso injuries have resulted in new wounding patterns among survivors that includes ruinously destructive CMF trauma and burns. Wounds to the CMF are usually associated with a poor prognosis because restoration of the specialized structures and cosmetics are significantly challenging and impact functional outcomes, sense of self and social re-integration. The USADTRD's research foci is established around three research areas; a) development of composite tissues for grafting and implantation, b) ameliorating the effects of host healing processes and infection on trauma and burn wound repair, and c) restoration of damaged or replacement of missing CMF tissues and structures.
+
+Craniomaxillofacial Research at the USADTRD at USAISR will emphasize 3 challenges:
+
+Craniomaxillofacial (CMF) Regenerative Medicine
+Battle Injuries cause devastating deformities to the CMF area at a higher rate than previous wars. Current treatment procedures for serious craniomaxillofacial battle injuries were developed during World War I. Using the injured persons own tissue, a surgeon attempts to lessen one deformity while creating another. The end point of these treatments is usually patient frustration, not successful outcome. The three research areas will be fundamental in providing technologies to improve outcome in CMF battle injuries.
+
+Biofilm-Impaired Wound Healing
+The ultimate goal of this research is to mitigate the influence of infection on healing and regeneration. Infections of the teeth (decay) and tooth-supporting tissues (periodontitis) are caused by plaque which is a biofilm found in every mouth. Plaque, besides causing an enormous burden of disease on Soldiers and the Military Healthcare System, is a perfect disease model to study and to develop therapeutic strategies to prevent/treat biofilms of different bacterial species found in combat wounds.
+
+Amelioration of Scar Formation in Injured Skin and Soft Tissues
+Scar formation is currently the inevitable consequence of postnatal wound repair and is the means by which the body expeditiously restores cutaneous barrier function following traumatic or burn injuries. Normal and pathologic scarring (excessive collagen deposition beyond the borders of injury) of skin which includes hypertrophic scars and keloids significantly reduce the function of injured skin and the underlying tissues. Severe cases of hypertrophic scars can result in disfigurement, restriction of motion, and disabling pain in skin and soft tissue wounds. The effects of pathologic scars on quality of life are significant and often underappreciated. The impact is particularly magnified in oro-facial injuries where scarring can lead to significant anatomical, functional and aesthetic facial degradation. This places a huge burden on the injured warfighter for their re-integration into society. The pathophysiology underlying hypertrophic scar formation is not well understood and is a subject for research.
+
+Blood Products
+Recent efforts in blood products research have centered on finding suitable replacement compounds for use in blood component therapy. That is, when fresh whole blood is not available, various components of blood (plasma, platelets, red blood cells, etc.) are administered. Various methods to prepare such components including drying and freezing components are being investigated. However, a requirement to identify and treat the underlying causes of the lack of effective coagulation in severely injured patients has become apparent. Current efforts to address the "coagulopathy of trauma" are largely focused on attempting to improve outcomes using treatment regimens that incorporate available products in different ways, for example, more aggressive use of plasma transfusion, earlier correction of pH, etc. These efforts provide incremental advances in care but are necessarily limited by the existing products and knowledge. Major advances in patient care will require new products and knowledge. Development of new diagnostics, therapeutic targets and drug candidates requires a more in-depth knowledge of underlying mechanisms. This work is closely coordinated with the studies undertaken in the Damage Control Resuscitation area. Research encompasses in vitro systems, animal models, and clinical studies to:
+
+elucidate mechanisms relevant to coagulopathy,
+to relate changes observed in blood with patient outcomes, and
+to investigate potential diagnostic and therapeutic approaches.
+An emphasis is that data collected is suitable for data integration and modeling efforts, such as systems biology or other modeling approaches. Modeling efforts are incorporated into the research program to augment the coordinated bench, animal and clinical research efforts.
+
+Traumatic Brain Injury
+Traumatic Brain Injury (TBI) is a collective term used for multiple different physiological states that are consequences of physical damage to the brain. Within the Combat Casualty Care Research Program, there are two major subdivisions which study very different forms of TBI. One group (Neuroprotection) focuses on penetrating brain injury, damage to the brain caused by shrapnel, bullets, or other projectiles passing through the skull and physically lodging in or passing through the brain matter. The other (Neurological Effects of Blast) studies the effects of acute exposure to blast waves, or "blast overpressure," on the brain. The goal of each is to increase understanding of the etiology of TBIs, in order to develop new treatments and to arrive at evidence-based solutions. Both of these areas have benefitted from substantial amounts of supplemental funding in the recent past.
+
+The Neuroprotection subdivision seeks solutions for penetrating ballistic-type TBI and is focused on the discovery/development of novel therapeutics (drugs, stem cells, and brain hypothermia), diagnostics, and doctrine to mitigate the morbidity caused by TBI.
+The aim of the Neurological Effects of Blast effort is the development and utilization of pre-clinical animal models of blast-induced TBI that recreate the hallmarks of this injury as sustained by the warfighter. The knowledge from this effort will be used to establish mitigation strategies (preventive and post-injury therapeutics and treatment guidelines) to decrease the incidence of significant functional impairment and increase the rate of return to duty after blast exposure. The focus is on battlefield interventions because it is predicted that pre-injury or early post-injury therapies will have the greatest impact on outcome.
+
+It was developed as a structured intervention aimed to treat the approximately 8-10% of casualties who are the most severely injured, are coagulopathic, and are at the greatest risk of dying. DCR combines research efforts in hemostasis and resuscitation to evaluate hemostatic dressings and to investigate optimal resuscitation strategies.
+
+
+Studies of severely injured patients have identified a population that appears to become hypocoagulable in response to trauma (as opposed to iatrogenic injury). This phenomenon, termed the Acute Coagulopathy of Trauma (ACOT) is under investigation to determine its incidence, causes and potential treatments. Current research efforts attempt to refine this practice, optimize the use of blood products, and avoid delivering blood products to those that do not require this type of intervention. Other research efforts focus on identifying better means to treat non-compressible hemorrhage as well as investigate genetic, genomic, and immunological responses to trauma/hemorrhage and finding improved means to reduce hypothermia. Using relevant animal models and studies in human trauma patients, the ultimate goal is to develop products for resuscitation and hemorrhage control that can be used at all echelons of care to improve survival and reduce morbidity in injured Soldiers.
+
+A published study shows that 1,566 soldiers sustained 6,609 combat wounds with 3,575 of the wounds to the extremities (82% of the soldiers had at least one extremity wound). Based on the conclusion that for every injured soldiers there are 2.3 extremity wounds, the total number of extremity wounds in OIF/OEF to date exceeds 33,000.
+
+Currently, we are studying and evaluating a database of over 200 type 3 open tibia fractures to determine what causes poor clinical outcomes (e.g., concomitant soft tissue loss, nerve defects, infection, type of fixation, etc.). We have also determined that skeletal muscle injury is the main reason for limited functional recovery and are now directing resources to solve this problem. Perhaps most importantly, the Military Orthopaedic Trauma Registry (MOTR) was created. Currently, the Joint Theater Trauma Registry does not collect the information that is needed to understand the severity of the extremity wounds, how they are treated, or their outcomes. MOTR will have these needed data elements.
+
+Clinical practice guidelines for irrigation of contaminated wounds have been created from studies that we conducted in animals. Other notable efforts include developing animal models for compartment syndrome, massive contaminated defects, and large segmental muscle loss. The concept of a dual-purpose bone implant (promotes regeneration and prevents infection) was developed and is being evaluated. The Brooke Army Medical Center Department of Orthopedics has initiated several clinical trials in the areas of combat casualty care and several more are planned in the near future.
+
+The Combat Casualty Care Research Program (CCCRP) oversees a multi-center clinical trials consortium known as the Orthopaedic Extremity Trauma Research Program (OETRP). The OETRP focuses on improving outcomes of extremity injuries within the next 5 years. This is accomplished by funding translational research projects that evaluate new and emerging therapies and by conducting clinical trials to evaluate current standards of care and available treatments. In addition, the CCCRP provides technical oversight to more than 20 large research contracts with universities and companies engaged in extremity trauma research. These relationships are used to advance scientific inquiry in the areas of soft tissue and bone injury, infection, and tissue regeneration.
+
+Current research projects include studies which examine the effects of anesthetic agents on short-term outcomes such as resuscitation requirements and optimal transfusion ratios. Long-term outcomes such as Post Traumatic Stress Disorder (PTSD), patient satisfaction (health care related quality of life), opioid addiction/tolerance, and chronic pain are also being studied. In a retrospective study, anesthetic ketamine was not associated with an increased prevalence of PTSD and was correlated with decreased PTSD development in burned soldiers. Later work showed that the beta-adrenergic receptor blocking agent propranolol was not associated with a decrease in PTSD development in burned soldiers despite its effects on memory and occasional off-label use as a PTSD prophylactic.
+
+Research includes studies designed to test and develop new 'wear-and-forget' Physiological Status Monitors (PSM) that enhance far forward capabilities for remote triage, diagnosis, and decision-making relative to casualty management. We are investigating the applicability of information that from the electrocardiogram and other sensor signals of the PSM to specifically track reduction in central blood volume resulting from hemorrhage, and further define the practical requirements (i.e., computing power, heart beats required, etc.) for their potential use on the battlefield. We also investigate technologies using light sources for the development of standoff triage. Emphasis is placed on developing a machine-learning algorithm that will provide early indication of severity of hemorrhage and subsequent need for prioritization of treatment or evacuation.
+
+We are conducting research designed to develop and test new portable medical monitors that can be used by combat medical personnel during en route care and at higher echelons (e.g., Emergency Room). Current studies focus on identifying devices for vital sign monitoring, diagnostics and therapeutics for remote and on-scene assessment of the severity of hemorrhage and early prediction of onset of hemodynamic decompensation and progression toward the development of overt hemorrhagic shock . Technologies under consideration to meet these needs include infrared photoplethysmography, near-infrared spectroscopy, diffuse optical spectroscopy, and inspiratory resistance. The ultimate goal is to integrate these measurements using machine-learning techniques to develop a predictive, personalized algorithm for triage. In addition to the emphasis placed on personalized prediction of impending hemorrhagic shock, we will use our experimental human algorithm for predicting central blood volume changes to focus on the development of software algorithms and systems to provide a capability to track, and subsequently guide, resuscitation efforts.
+
+Combat critical care engineering can best be described as the use of technology (hardware and software systems) to help those caring for critically injured casualties. This technology must be applied from prehospital thru ICU. The focus is on addressing the technology gap in critical care medicine between in-theater facilities and those in the US.
+
+New vital signs to provide personnel with more sensitive and specific indicators of the true extent of trauma injuries, in addition to providing more precise diagnosis at earlier stages of care. These new vital signs will allow for better and earlier diagnosis of impending cardiovascular collapse and will provide personnel with a more accurate indicator of the need for a life saving intervention. Part of this research involves the use of high performance computing approaches for the extraction of informative features from high frequency and high resolution waveform data digitized from different body sensors (i.e. EKG). Additionally, advanced information and computer processing approaches will be used to develop systems that can process and implement these new vital signs in smaller and lighter monitoring systems that can be carried by medics in the battlefield. To further automate critical care procedures, open loop systems will also be developed that will provider personnel with recommendations on treatment options in addition to providing the ability to execute the intervention automatically. Finally, closed loop control systems will be developed to fully automate the care of the patient with little or no intervention from the provider. Development of extracorporeal devices will be explored with capabilities to augment and/or replace mechanical ventilation requirements for patients with severe ARDS.
+
+Clinical research in injured casualties is being conducted on a variety of combat-related medical issues. Research includes resuscitation protocols and stabilization in local and far forward care, clothing issues and protection from injury, continuous renal replacement therapy, antibiotic use, wound excision and closure techniques, diagnosis and treatment of head injury including blast injury, pharmacokinetics of antibiotics in the severely injured, topical wound treatments including silver products and vacuum assisted wound closure, wound healing of the skin donor site, hemorrhage control in the burn OR, nutrition during ICU stay and during outpatient recuperation, temperature control in the burned patient, hypotension control strategies, and heterotopic ossification in the severely burned.
+
+Research to provide regenerated or genetically engineered tissue constructs to replace damaged or destroyed face features through accelerated pre-clinical and clinical trials, development of biological therapies combining tissue engineering and stem cell technologies to generate craniofacial structures at the USADTRD, and accelerated research in collaboration with other institutions to leverage their resources to build our research portfolio on craniomaxillofacial regenerative medicine. The deliverables will be a combination of a scientific process and products such as angiogenic and/or osteogenic scaffolds, tissue-specific stem (progenitor) cells capable of local repair and regeneration, vascularized soft tissue constructs conducive to the restoration of facial defects, and bioactive bone construct to repair and regenerate facial bones.
+
+Additional research is ongoing into algorithms to understand biofilm pathophysiology and test therapeutic agents useful to treat not only dental plaque but biofilms which complicate healing of combat wounds. The deliverables will be FDA approved anti-biofilm agents in the form of a wound gel consisting of antimicrobials which exhibit low propensity to induce microbial resistance and biofilm dispersing agents. In addition, the research will produce evidence-based treatment modalities to improve the outcome of infected combat wounds. This treatment information will focus on being readily transferred into clinical testing.
+
+Planned research includes development of a biological therapy comprised of cells (e.g., mixed-population of progenitor cell types), matrix, growth factors, and other small molecules (e.g., Transformation Growth Factor-β antagonist). The intent of this biotherapeutic is to accelerate healing and reduce scarring by attenuating the inflammatory response and by the recruitment of resident stem or progenitors cells and their secreted signaling molecules to the injured site. It is now well-known that mesenchymal stem or progenitor cells have the ability to modulate the inflammatory response. The deliverables include the identification of the most efficacious progenitor cell types, growth factors, and small molecules to improve healing and scarring using the rabbit scar model. These steps will provide information needed to achieve the next stage in the development of biological therapies to improve disabling scarring and tissue regeneration therapeutics in the oro-facial region.
+Here is a list of a number of products being studied for use in humans provided they gain Food and Drug Administration approval:
+
+Freeze Dried Plasma
+Platelet Derived hemostatic Agents
+Cyropreserved Platelets
+Freeze dried Platelets
+Frozen platelets
+Freeze Dried RBCs
+Frozen RBCs
+Pharmed RBCs
+Pharmed platelets
+Extended Life Red Blood Cells
+
+It is vital that blood supplies not be contaminated. Methods of pathogen detection and, more importantly, inactivation are being studied. One promising study is trying to characterize the effects of a riboflavin-UV light pathogen inactivation process upon whole blood. Because whole blood is perishable, efforts to increase its "life span" research continues on extended storage solutions either to extend the storage or provide "fresher" quality cells at time of transfusion and to evaluate the quality of frozen/deglycerolized blood versus liquid stored red cells during storage (Days 0-42). Examples of blood research include determination of the underlying mechanisms and clinical consequences (outcomes) of the coagulopathy that frequently occurs after trauma, ultimately leading to development of diagnostics and therapeutics to effectively predict, diagnose, prevent, and treat trauma-induced coagulopathy.
+
+This effort includes studies of trauma-related changes in:
+
+coagulation enzyme function
+anticoagulant mechanisms
+fibrinolytic enzyme function
+antifibrinolytic mechanisms
+platelet function
+endothelial function
+selected elements of inflammatory function involved in regulation of hemostatic mechanisms
+
+Neuroprotection research includes work on preclinical biomarker discovery in the military relevant penetrating ballistic'like injury (PBBI) model, identification of cellular/molecular mechanisms of cell death, characterization of secondary cell death signals, and mechanisms of action of neuroprotection. It also includes discovery and early preclinical development of lead neuroprotection mono-therapies for the treatment of brain injury, including drugs, selective brain cooling, and stem cells; discovery and early preclinical development of lead anti-seizure mono-therapies for the treatment of silent seizures caused by brain injury, including FDA approved antiepileptic drugs as well as novel anti-seizure drugs (via Cooperative Research and Development Agreements); and initial preclinical development of combination therapies for the treatment of brain injury (neuroprotection and anti-seizure therapy combinations). These studies require the development of a rat model of PBBI and polytrauma and subsequent enhancement of the rat model in a larger species, i.e. pigs, also to include polytrauma.
+
+Central to the neurological effects studies is the use of neuroimaging to provide a critical validation of the fidelity of preclinical models to reproduce the brain pathophysiology documented in injured warfighters, to rationally target neurobiologically-based therapeutic countermeasures, and to assess efficacy of these countermeasures. Once the imaging is possible, determination of the mechanisms underlying the appreciable contribution of the systemic effects of blast to brain injury which will lead to optimal blast mitigation countermeasures will be possible. Evaluation of time-dependent vulnerabilities to repeated blast overpressure provides essential insights to minimize injury to the warfighter.
+
+Fulfill the responsibilities and functions of the DOD Executive Agent (EA) for Medical Research for the Prevention, Mitigation, and Treatment of Blast Injuries in accordance with Public Law 109-163, Section 256 and DOD Directive 6025.21E. On behalf of the EA, the Blast Injury Research Coordinating Office (BIRCO) coordinates DOD-sponsored biomedical research programs aimed at preventing, mitigating, and treating blast-related injuries; identifies knowledge gaps and shapes research programs accordingly; promotes information sharing among the operational, intelligence, medical, and materiel development communities; and facilitates collaborative research among DOD laboratories and the laboratories of other federal agencies, academics, and industry to leverage resources and to take full advantage of the body of knowledge that resides both within and outside of the DOD to accelerate the delivery of blast injury prevention and treatment strategies to Service members.
+
+Up arrow top
+
+Background and Environment
+Operations in Afghanistan and Iraq, worldwide terrorist bombings and industrial explosions, and the growing use of improvised explosive devices have resulted in a significant number of blast-related casualties. Through Public Law 109-163 Section 256 in 2006, Congress directed the Secretary of Defense (SECDEF) to designate an EA to coordinate the DOD's medical research programs relating to the prevention, mitigation, and treatment of blast injuries. The DOD responded by issuing DOD Directive 6025.21E, 5 July 2006, "Medical Research for Prevention, Mitigation, and Treatment of Blast Injuries," that designated the Secretary of the Army (SECARMY) as the DOD EA.
+
+In 2007, following a series of delegations, the Commander, U.S. Army Medical Command, assumed EA authority for the DOD Blast Injury Research Program and established BIRCO at the U.S. Army Medical Research and Development Command (USAMRDC) under a charter signed by the Commander, USAMEDCOM to assist in fulfilling EA responsibilities and functions. In 2017, SECARMY delegated EA authority to the Surgeon General, who further delegated EA authority to the Commander, USAMRDC.
+
+Up arrow top
+
+Vision and Lines of Effort
+BIRCO's vision is a fully coordinated DOD blast injury research program that delivers timely and effective blast injury prevention, mitigation, and treatment strategies to our Service members today and in the future.
+
+To realize this vision, BIRCO operates through the following lines of effort:
+
+Identifying blast injury knowledge gaps
+Shaping research programs to fill knowledge gaps
+Promoting information sharing and partnership
+Facilitating collaboration within and outside the DOD
+Disseminating blast injury research information
+Up arrow top
+
+Key Themes and Messages
+Blast injury includes the entire spectrum of injuries that can result from exposure to an explosion. They are highly complex, involving multiple types of injuries and multiple body systems at once.
+
+Solutions to blast injury problems require collaboration among diverse communities and disciplines.
+
+Service members are the ultimate beneficiaries of collaboration by the world's experts.
+
+Visit BIRCO's website External link for information on key initiatives, annual reports, State-of-the-Science Meetings, research highlights, and more.
+
+As defined in the DOD Directive 5101.1, "the DOD Executive Agent is the head of a DOD Component to whom the Secretary of Defense or the Deputy Secretary of Defense has assigned specific responsibilities, functions, and authorities to provide defined levels of support for operational missions, or administrative or other designated activities that involve two or more of the DOD Components. The nature and scope of the DOD Executive Agent's responsibilities, functions, and authorities are prescribed at the time of assignment and remain in effect until the Secretary of Defense or the Deputy Secretary of Defense revokes or supersedes them. The DOD Executive Agent may delegate, to a subordinate designee within that official's Component, the authority to act on that official's behalf for any or all of those DOD Executive Agent responsibilities, functions, and authorities assigned by the Secretary of Defense or the Deputy Secretary of Defense."
+
+The Commander, USAMRDC is the DOD EA for Medical Research for Prevention, Mitigation, and Treatment of Blast Injuries. In 2006, SECDEF designated SECARMY as the DOD EA. In 2007, following a series of delegations, the Commander, U.S. Army Medical Command, assumed EA authority and established BIRCO at the USAMRDC under a charter signed by the Commander, USAMEDCOM to assist in fulfilling EA responsibilities and functions. In 2017, SECARMY delegated EA authority to the Surgeon General, who further delegated EA authority to the Commander, USAMRDC.
+
+DOD Directive 6025.21E categorizes blast injuries into five types: primary through quinary. Primary blast injuries result from the direct interaction of the blast wave with the body. Examples include lung injury, ear drum rupture, eye rupture, severe abdominal bleeding, and concussion. Secondary blast injuries result from blunt or penetrating impact from shrapnel or other foreign bodies propelled by the blast wave. Examples include fragment penetration of the eye or body and brain injuries. Tertiary blast injuries are caused when the blast wave forces the body into impacting other objects. Examples include bone fractures, amputations, blunt injures, crush injuries, and brain injuries. Quaternary blast injuries are caused by the heat or toxic substances resulting from the explosion. Examples include partial and full thickness burns and breathing problems caused by dust, smoke, particulates, and toxic fumes. Finally, quinary blast injuries result from environmental contaminants or chemical, biological, and radiological substances released from the explosion. Examples include chemical burns, radiation exposure, and viral or bacterial infections.
+
+Blast injury research is the scientific pursuit across medical and nonmedical fields of information to improve injury prevention, acute treatment, and reset of Service members.
+Injury Prevention: Research to prevent blast injury across the spectrum of potential injuries through establishing safety thresholds for human exposure to blast, enhancing diagnostic capabilities, supporting the design of protection systems, and strengthening guidelines for the safe use of weapon systems
+Acute Treatment: Research to develop new diagnostic tools, clinical guidelines, therapies, and medical interventions to treat the spectrum of blast-related injuries with the goal to improve survivability and mitigate long-term disability for Service members with injuries following blast events
+Reset: Describes a concept that extends beyond rehabilitation to include all activities necessary to return injured Service members to duty or to productive civilian life. Reset includes research to advance strategies for reducing recovery time, improving rehabilitation programs, maximizing opportunities for return to duty and reintegration into the civilian workforce, and improving the quality of life for Service members who have experienced blast-related injuries
+
+The mission of the Military Operational Medicine Research Program (MOMRP) is to develop effective countermeasures against stressors and to maximize health, performance, and fitness. Our mission is protecting the Soldier from head to toe, inside and out, at home, and on the battlefield. Science to Soldier is our focus.
+
+
+Background and Environment
+MOMRP, U.S. Army Medical Research and Development Command (USAMRDC), conducts biomedical research to deliver products and solutions to the Warrior that address health and fitness throughout the deployment cycle. MOMRP is centered on cutting-edge scientific research and bringing Science to the Soldier on the battlefield in a relevant, timely manner. MOMRP depends on a phenomenal cadre of dedicated scientists and engineers who continuously and tirelessly work to protect the nation's most valuable asset - the Warrior.
+
+Up arrow top
+
+Goals and Objectives
+MOMRP is divided into four research focus areas:
+
+Injury Prevention and Reduction
+Psychological Health and Resilience
+Physiological Health
+Environmental Health and Protection
+Biomedical basis for countermeasures that prevent and mitigate Warrior injury
+MOMRP Injury Prevention and Reduction research develops models to predict the degree of injury from known threats, develops design guidelines and performance specifications for protective equipment, and identifies countermeasures to prevent or mitigate injury to the Warrior. Key threats addressed by this research area include blast overpressure, blunt and penetrating trauma, musculoskeletal and training injuries, and neurosensory injury. This program addresses thoracic and pulmonary injury protection through modeling blast and blunt trauma, protection that prevents or reduces neurosensory injury, validated standards for performance to assess return to duty, and training doctrine based on physiological mechanisms that underlie musculosketal injury that identify and mitigate injury risks.
+
+Strategies and interventions that build psychological resilience and optimize psychological health and emotional fitness among Soldiers and families
+MOMRP Psychological Health and Resilience research is focused on prevention, treatment, and recovery of Soldiers - and families - behavioral health, which are critical to force health and readiness. Research is necessary to guide policy and ensure optimal delivery of behavioral health training and services across the continuum of care and deployment cycle. Threats addressed by this research component include post-traumatic stress disorder (PTSD), suicide, family separation, and family violence.
+
+Current psychological health research topic areas include:
+
+Universal and selective behavioral health prevention and resiliency building
+Case identification, treatment, and clinical management of individuals with mental disorders
+Suicide prevention
+Neurocognitive assessment and clinical management of post-concussion-related challenges
+Substance use and related problems
+Ongoing epidemiological and preclinical research to identify vulnerability, protective, and risk factor interactions associated with mental disorders and negative risk-taking behaviors
+Family and community wellness capacity building
+Bereavement interventions
+Prospective epidemiological, intervention, and surveillance research designed to address neurological health, fitness and readiness, longer-term physical and mental health, disease, and performance outcomes over the deployment cycle
+Biomedical countermeasures to sustain Warrior health and operational effectiveness
+MOMRP Physiological Health research focuses on developing medical standards, predictive models, and countermeasures to prevent or mitigate the effects of physiological stressors on the performance and fitness of Warriors. These stressors include inappropriate nutrition, poor physical fitness, sleep loss, sleep deprivation, fatigue, and burnout. The focus is on threats and stressors in both the garrison and operational environments. Current research addresses advanced biomedical modeling and networked physiological status monitoring capabilities, a comprehensive sleep and performance management system based on effects of chronic sleep restriction and acute total sleep deprivation, individual physiological differences in sleep loss resilience, nutritional health surveillance and dietary supplement use, and interventions to mitigate threats to operational health.
+
+Assess and sustain Warrior health and performance in extreme environments
+MOMRP Environmental Health and Protection research develops medical standards, predictive models, and countermeasures to prevent or mitigate the effects of extreme environments and toxic material exposure in the military. Threats addressed by this program include extremes of heat/cold and hydration, high altitude, and toxic industrial chemicals and materials. Current research projects focus on methods that sustain operational performance in extreme heat and cold and at high altitudes to prevent and manage heat, cold, altitude sickness, and hydration-related injuries. This research also includes detecting, monitoring, and assessing the risk of the Warrior's exposure to toxic chemicals and materials during operations.
+
+Up arrow top
+
+Key Themes and Messages
+Injury Prevention and Reduction
+Warriors are susceptible to physical, sometimes debilitating, injuries. Head and neck injuries, including severe brain trauma, have been reported in one-fourth of all evacuated service members. In the past 5 years, Walter Reed Army Medical Center alone has surgically treated approximately 700 Warriors with moderate-to-severe visual injuries. Nearly 70,000 combat troops are collecting disability for tinnitus and more than 58,000 for hearing loss. Medical disability discharge rates have increased with 78% due to musculoskeletal injury. MOMRP research helps prevent physical injuries through development of injury prediction models, equipment design specifications and guidelines, health hazard assessment criteria, and strategies to reduce musculoskeletal injuries.
+
+Psychological Health and Resilience
+Psychological health problems are the second leading cause of evacuation during prolonged and/or repeated deployments. Of returning Warriors, 20 - 40% have behavioral health problems post-deployment, mostly related to PTSD, depression, and interpersonal conflict. MOMRP researchers develop strategies and advise policy makers to enhance and sustain mental fitness throughout a service member's career. These include validated prevention and treatment interventions that address psychological health issues, enhanced screening and identification of concussion-related health concerns, and improved clinical guidelines for health care providers.
+
+Physiological Health
+The rapid pace of operations and the need for repeated deployments have a profound effect on the physiological health and performance of Warriors. MOMRP develops novel nutritional strategies that maintain and sustain optimal health and readiness, a comprehensive sleep and performance management system that predicts Warrior physiological degradation, and a real-time medical status monitoring and situational awareness informational system enabling commanders to ensure mission success.
+
+Environmental Health and Protection
+Warriors train and fight while exposed to a range of harsh environmental conditions, such as extreme heat and cold temperatures and high terrestrial altitude. These harsh environmental conditions, alone or combined with other operational stressors, degrade military physical and cognitive performance. MOMRP provides guidelines to mitigate performance degradation from these environmental extremes. Warriors also are susceptible to exposure to toxic chemicals and materials in the operational environment. MOMRP develops biomarkers to detect toxic exposures and methods to assess their impact on health risk.
+
+The Thoracic and Pulmonary Injury Protection task area addresses the internal and external damage inflicted by blast trauma, blunt forces to the thorax, and acute physiological consequences caused by blunt impact, blast, and inhaled toxic gases. It captures injury responses in mathematical models that support health hazard and survivability assessments and design of protection systems.
+
+The focus of the Neurosensory Injury Protection task area is to prevent or reduce neurosensory injury and promote Warrior capabilities to continue to move, shoot, and communicate. Areas to be protected from combat, training, and accident-related injuries include the head, brain, eyes, ears, cranial nerves, face, neck, spine, and spinal cord.
+
+Injury Return-to-Duty Standards and Strategies will address the need to develop validated standards and strategies for measuring performance levels in military occupations. It is specifically tailored to provide the basis for consistently accurate, safe, and rapid decisions to return a Warrior to military duty after neurosensory, cognitive, or musculoskeletal injury.
+
+MOMRP Physiological Mechanisms of Musculoskeletal Injury research will provide an enhanced understanding of physiological mechanisms that underlie musculoskeletal injury to help identify countermeasures to mitigate injury risks. It also could be used in revising Army training doctrine.
+
+The inability to remain psychologically resilient during training and in operational environments can completely disable a Warrior. More than one-third of enlisted Warriors fail to complete their first term of enlistment, often due to mental, psychosocial, or behavioral problems. Even those Warriors considered psychologically hardened can be affected by traumatic events common on the modern battlefield. MOMRP's Psychological Health and Resilience research program area develops criteria to identify vulnerable Warriors and targets factors that predict mental disorders. In addition, field tests of biomedical strategies are designed to reduce attrition rates and psychiatric morbidity associated with poor mental health.
+
+Unit Behavioral Health Needs Assessment
+Mental Health Advisory Team
+Post-Deployment Health Assessment and Post-Deployment Health Reassessment
+Army Suicide Event Report System
+Doctrine and Training: Research findings and recommendations that led to the revision of combat and operational stress control doctrine and medic training courses
+
+Sustained combat operations such as those in Iraq and Afghanistan cause physical and mental fatigue due to the physically demanding work as well as lack of sleep. "Mission reset" and "recovery" are terms that are used to describe the need for adequate rest, nutrition, and fitness to ensure that Warriors are functioning at their highest possible level of physical readiness and mental alertness.
+
+The SPARNET-Spartan Sensor Network is a system of mobile, networked wearable sensors that will provide real-time medical status and situational awareness information to commanders in training scenarios. This product currently is being tested in Ranger Training Brigade with future implementation planned for Basic Combat Training and Advanced Individual Training.
+
+A wrist-worn digital signal-processing device, the Sleep Watch Actigraph, provides real-time quantitative estimates of Warrior physical and cognitive readiness and performance based on sleep/wake history. The actigraph is a risk assessment decision aid for commanders.
+
+The First Strike Ration (FSR) is a lightweight, efficient ration that provides optimal nutrition to sustain the cognitive and physical performance of Warriors. In conjunction with the FSR, a new liquid-based Nutrient Delivery System will improve on-demand access to essential nutrients.
+
+An effort called 21st Century Fueling is an integrated research program that promotes optimal health and fitness; prevents degraded performance; prevents and treats obesity, injury, and disease; and supports post-deployment health reset over the military career. The goal is to establish holistic community-based nutrition programs for Warriors and their families.
+
+Products from the Environmental Health Program area include:
+
+Heat/Cold, Altitude and Hydration Products
+Enhanced Fluid Delivery System - Improves water consumption and provides supplemental nutrition
+Water Use Modeling - Provides a water needs prediction model and a real-time heat injury prediction model
+Microclimate Cooling System - Will prevent overheating in extreme heat
+Microclimate Heating System - Will enhance dexterity in extreme cold High-Altitude Products
+Altitude Readiness Management System - Will enhance operational capability in high altitude environments
+Hypoxic Training Guidelines - Provides pre-deployment rapid acclimatization methods
+Acquired Cross-Tolerance - Will potentially provide a mechanism to enhance resistance to all environmental injuries and develop improved medications for treatment of heat, cold, and altitude-related injury and illness
+Toxic Chemical Exposure Products
+Aquatic Biomonitor/Environmental Sentinel Biomonitor - Provides biological detection of toxic materials in water supplies
+Coliform Analyzer - Provides rapid detection of bacterial contamination in drinking water
+Biomarkers of Toxic Exposure - Will determine susceptibility to toxic exposure and indicate effects of exposure
+
+Battlemind Training programs, focusing on stress and psychological resilience, help Warriors transition from combat to home
+Operational guidelines prevent heat-stress casualties among Warriors deployed to Iraq
+Operational guidelines prevent altitude-induced injuries among Warriors operating in the mountains of Afghanistan
+TGAS (Toxic Gas Assessment Software), a Warrior survivability assessment tool, predicts vehicle crew incapacitation from toxic fire gas exposures behind defeated armor
+ESB (Environmental Sentinel Biomonitor), a novel biomonitoring system, continuously monitors drinking water sources for toxic chemicals, which is currently protecting military and civilian communities
+A body armor blunt trauma performance standard and testing method will enable the development of lightweight body armor
+INJURY, a software tool, predicts lung injuries from exposure to blast overpressure from high-powered weapon systems
+Guidelines for nutritional supplements in rations sustain performance and health
+
+The U.S. Army Medical Research and Development Command's mission is to provide medical knowledge and materiel life-cycle management to protect, treat, and optimize Warfighter health and performance across the full spectrum of operations. USAMRDC provides research and development in a variety of areas, including chemical and biological defense. Medical chemical and biological research at USAMRDC supports the mission of the Chemical and Biological Defense Program (CBDP) to provide chemical and biological defense capabilities in support of national military strategies.
+
+Up arrow top
+
+Background and Environment
+The Department of Defense (DoD) established the CBDP in 1994 to provide chemical and biological defense capabilities in support of national military strategies. In accordance with 50 USC 1522, research, development, and acquisition (RDA) of chemical and biological defense programs within the DoD are overseen by a single office within the Office of the Secretary of Defense. The Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs (ATSD[NCB]) serves as this single office. The Deputy Assistant for Chemical and Biological Defense and Chemical Demilitarization Programs serves as the principal deputy to the ATSD(NCB) for accomplishing overall oversight and integration of the DoD CBDP.
+
+CBDP science and technology (S&T) programs are managed by the Defense Threat Reduction Agency's (DTRA's) Joint Science and Technology Office for Chemical and Biological Defense (JSTO-CBD). The JSTO-CBD is designated as the Chemical and Biological Technologies Directorate of the DTRA and is responsible for the management, integration, and execution of medical chemical and biological defense S&T programs within the DoD. The Chemical Biological Defense Partnership Support Directorate (PSD), which is a staff office under the Commanding General, USAMRDC, supports JSTO-CBD through the development and maintenance of an interactive web site for the management of all intramural chemical and biological defense S&T proposals. The Joint Chemical Biological Defense Research Program web site facilitates proposal management for all laboratories within the DoD, as well as other U.S. Government agencies, including the Department of Energy, Department of Health and Human Services, NASA, and others.
+
+Up arrow top
+
+Goals and Objectives
+To accomplish the objectives and purposes of the defense-wide medical chemical and biological defense S&T program, USAMRDC supports JSTO-CBD's planning and program management of that portion of the CBDP, including research performed at the following key USAMRDC laboratories: U.S. Army Medical Research Institute of Infectious Diseases (USAMRIID), U.S. Army Medical Research Institute of Chemical Defense (USAMRICD), and Walter Reed Army Institute of Research (WRAIR). In support of JSTO-CBD, the PSD, through its web-based program build process, facilitates planning for chemical and biological defense research at other service laboratories as well as other government laboratories and federally funded research and development centers. The PSD assists USAMRIID, USAMRICD, and WRAIR in reporting on the execution of medical chemical and biological S&T research funded by JSTO-CBD. The PSD also assists JSTO-CBD in executing assigned congressional special interest chemical and biological S&T research.
+
+On 30 September 2008, the CBDP Strategic Plan was published. This plan outlined the need to maintain a robust S&T base and promote and exploit scientific discoveries. The CBDP will continue to segment the goals of S&T into the following key thrusts:
+
+Transition technologies
+Ensure a robust S&T base
+Answer scientific questions
+Enterprise excellence
+Up arrow top
+
+Key Themes and Messages
+USAMRDC laboratories provide critical medical research capabilities to support national strategies against chemical and biological threats. The Command's capabilities include unique infrastructure, dedicated personnel, and scientific and technical expertise that keep the United States on the cutting edge of the development of scientific information and technology development.
+
+The nature of the chemical and biological threat is complex and diverse. The threat comes from various players, from nation-states to small terrorist organizations. The threat comes in various forms, including, but not limited to, bacteria, toxins, viruses, blisters, blood, and nerve agents. The threat of exposure comes from airborne exposure (i.e., inhalational), contact (i.e., dermal), and other means (e.g., ingestion.) Consequently, research and development include a variety of countermeasures, including vaccines and pre- and postexposure prophylaxes, therapeutics, and medical diagnostics (i.e., assays, reagents, and protocols).
+
+Partnerships and collaborations are critical to the success of USAMRDC laboratories. MRDC partners with industry, academia, other government agencies, and international partners. These collaborations include Cooperative Research and Development Agreements, Material Transfer Agreements, Patent License Agreements, Clinical Trial Agreements, Test and Evaluation Agreements, Partnership Intermediaries, Data Exchange Agreements, and Memoranda of Agreement.
+
+USAMRDC laboratories also provide education and training to military and civilian medical and public health professionals to provide proficiency in recognizing that a chemical or biological attack has occurred, activating the appropriate agencies and personnel to investigate the event, treating casualties, and preventing the spread of disease.
+
+Key USAMRDC laboratories conducting research and development of medical countermeasures against chemical and biological threats include:
+
+USAMRIID - The mission of USAMRIID is to conduct basic and applied research on biological threats resulting in medical solutions to protect the Warfighter. USAMRIID plays a key role as the only laboratory in the DoD equipped to safely study highly hazardous infectious agents requiring maximum containment at biosafety level 4. As the center of excellence for DoD medical biological defense research, USAMRIID's challenge is to maintain its world-class S&T base while being responsive to its primary customer-the Warfighter. Additional information about USAMRIID is available at http://www.usamriid.army.mil/index.htm External link
+USAMRICD - The mission of USAMRICD is to discover and develop medical countermeasures to chemical warfare agents for the U.S. military and U.S. citizens; train and educate personnel in the medical management of chemical casualties; and provide subject matter expertise in developing defense and national policy and in proper crisis management. The institute is the nation's leading S&T laboratory in the area of medical chemical countermeasures research and development. With sophisticated laboratories located at Aberdeen Proving Ground, Maryland, USAMRICD manages a diversified portfolio of medical chemical warfare agent research projects for the DoD and other federal agencies. Additional information about USAMRICD is available at: http://chemdef.apgea.army.mil/Default.aspx External link
+WRAIR - The mission of WRAIR is to conduct biomedical research that is responsive to DoD and U.S. Army requirements and delivers lifesaving products, including knowledge, technology, and medical materiel that sustain the combat effectiveness of the Warfighter. WRAIR's mission and capabilities address biomedical research and development more broadly than chemical and biological defense and include related areas such as infectious diseases, dental health, and laser eye injury. Key research capabilities at WRAIR include:
+Antigen discovery and vaccine development for militarily relevant pathogens
+Drug discovery to address military needs
+Testing of candidate vaccines, drugs, and devices in endemic areas to counter infectious diseases
+Development of devices for diagnosis and treatment
+Producing solutions that monitor, predict, and enhance human performance under field conditions
+
+For the fiscal year 2010-2011 (FY10-FY11) period, JSTO-CBD released a solicitation for research proposals for chemical and biological defense. Research ranges from basic research (6.1 funding) to more mature applied research (6.2 funding) and advanced technology development (6.3 funding). It encompasses a broad spectrum of topics that address chemical and biological defense S&T requirements. Medical chemical and biological research topic areas included the following:
+
+Medical Basic Research: Provides the supporting sciences to expand basic knowledge in threat agent biology and chemistry to enable the development of lead candidate vaccines, treatments, and pharmaceuticals against chemical and biological threat agents. Biologically based basic research focuses on understanding biological warfare agents of interest and their pathways, virulence, immunization factors, and identification. Chemically based basic research focuses on understanding chemical warfare agents of interest and their mechanisms of action, toxicity, cellular mechanisms of injury, and identification.
+Biological Pretreatments: Dedicated to research and development of vaccines and technologies given to the service member prior to potential exposure to biological agents. The goal is to reduce or prevent entirely adverse effects of exposure.
+Biological Therapeutics: Dedicated to providing medical solutions for military requirements to sustain and protect the force in biological environments. Biological Therapeutics deals primarily with medical countermeasures to bacterial, viral, and toxin agent exposure.
+Biological Diagnostics: Dedicated to developing improved screening procedures and analytical methods to verify exposure and determine effects of exposure to biological warfare agents.
+Chemical Medical Countermeasures: Dedicated to developing medical countermeasures (i.e., pretreatments, therapeutics, and diagnostics) to protect the Warfighter against chemical warfare agents, both traditional and nontraditional.
+
+For extramural organizations, including universities, industry, or other private institutions, the primary means for submitting research preproposals is through the DTRA Broad Agency Announcement. Chemical and biological defense S&T programs are managed by JSTO-CBD at DTRA.
+
+DTRA solicits proposals for its requirements through the Federal Business Opportunities (FedBizOpps) and the DoD Small Business Innovation Research (SBIR) Program solicitations.
+
+In addition to submitting proposals directly to DTRA, extramural partners may instead choose to partner with an intramural laboratory. There are a variety of mechanisms available for USAMRDC to work together with industry, including the following mechanisms:
+
+Cooperative Research and Development Agreements
+Material Transfer Agreements
+Patent License Agreements
+Clinical Trial Agreements
+Test and Evaluation Agreements
+Technical Assistance Agreements
+Partnership Intermediaries
+The DTRA JSTO-CBD also invites U.S. Government laboratories to submit research proposals on chemical and biological defense, and proposals for these intramural efforts are managed on the Joint Chemical and Biological Defense Science and Technology Program web site at https://jcbdrp.amedd.army.mil External link.
+
+The DoD CBDP is the lead organization providing RDA of capabilities to protect the Warfighter. Other federal agencies are providing related capabilities, especially in the protection of civilians and emergency personnel. Other organizations conducting related research include:
+
+The Department of Health and Human Services, including the National Institute of Allergy and Infectious Diseases (NIAID), the Biomedical Advanced Research and Development Authority, and the Centers for Disease Control and Prevention (CDC).
+The Department of Homeland Security, especially the National Biodefense Analysis and Countermeasures Center.
+
+The roles and responsibilities of the various federal agencies are outlined in Biodefense for the 21st Century (HSPD-10) and Medical Countermeasures Against Weapons of Mass Destruction (HSPD-18).
+
+The CBDP RDA Plan details mid- and long-term CBDP goals, objectives, and transition of materiel within each phase of the acquisition process consistent with the Under Secretary of Defense for Acquisition, Technology, and Logistics' comprehensive RDA strategy in accordance with the National Military Strategy to Combat Weapons of Mass Destruction. To request a copy of the January 2009 DoD CBDP RDA Plan, contact the CBRN Defense Program Analysis and Integration Office RDA Manager at 410-436-5743 or the RDA Coordinator at 410-436-2080.
+
+Medical S&T successes in FY07 included the establishment of assay standards and the focus on knowledge-based publications, which resulted in more than 150 peer-reviewed publications and 33 patents.
+
+Other medical chemical and biological S&T program research accomplishments are outlined in the May 2008 DoD CBDP Annual Report to Congress and include the following:
+
+
+Medical Biological Defense - Diagnostics:
+
+The U.S. Food and Drug Administration (FDA) cleared the Q-flow kit for DNA extraction from blood, and it is currently being fielded in the Joint Biological Agent Identification and Diagnostic System Block I deployment package. This kit addresses the main user-identified issues of the previous kit by eliminating the need for a large tabletop centrifuge and decreasing the sample volume required by approximately 1,000-fold.
+Established standards for reporting data on assay design, optimization, and performance. These also are being adopted for use by the environmental and infectious disease communities and have been presented to our international partners.
+
+Medical Biological Defense - Therapeutics:
+
+Sponsored the establishment of a clinical field site for orthopoxvirus in the Democratic Republic of Congo.
+Enrolls more than 100 patients with monkeypox annually; these patients are provided the current standard of care for this disease.
+Collects human pathogenesis data, which are compared with similar data generated in current animal models.
+Advanced clinical developers, NIAID, and SIGA Technologies will manage the site in the future.
+ST-246 (SIGA Technologies)-an oral antiviral therapeutic drug.
+Demonstrated 100% protection against monkeypox and human smallpox virus in NHP trials and is the first drug to do so.
+Developed an intravenous monkeypox animal model that is being used as the pivotal animal model in the FDA licensure process.
+At the CDC's request, it was used recently to successfully treat a child having significant atopic dermatitis and a disseminated case of the disease acquired from contact with a parent's smallpox vaccination.
+
+Medical Chemical Defense - Pretreatments:
+
+Recombinant BioScavenger pretreatment of guinea pigs followed by exposure to soman or VX resulted in 100% survival with no signs of toxicity or behavioral impairment.
+Developed and validated physiologically based pharmacokinetic/pharmacodynamic models for intravenous, subcutaneous, and inhalational administration of soman in three animal models.
+Further refined and analyzed the x-ray structure of candidate bioscavenger yCE.
+Cloned, sequenced, expressed, purified, and kinetically characterized more than eight mutants of yCE to increase organophosphorous acid anhydrase.
+Achieved up to a 20-fold increase in the specificity constant for carboxyl acid ester (pNPA) hydrolysis and at least a 200-fold increase in paraoxon reactivity through site-directed mutagenesis of candidate bioscavengers.
+Continued characterization of human serum paraoxonase 1 as a third-generation bioscavenger.
+
+Medical Chemical Defense - Diagnostics:
+
+Completed development of a robotic, whole-blood diagnostic system for nerve agent exposure.
+Continued comparative research into field-sampling techniques and technologies for postexposure diagnosis.
+
+Medical Chemical Defense - Therapeutics:
+
+Developed a mathematical molecular model to clarify the reactivation of inhibited AChE, as well as the effect of substituent groups on the reactivation event..
+Initiated research into technologies to enhance blood-brain barrier penetration for nerve agent countermeasures.
+Used site-directed mutagenesis to better identify the role of the key amino acids in the reactivation event.
+Used proteomic analysis to identify changes to proteome and genome of neuronal tissue following exposure to nerve agent.
+Evaluated effects of nerve agents on mitochondrial function and tested efficacy of cyclosporine A and its analogs at mitigating damage.
+Continued investigation of gross, cellular, and subcellular alterations of central nervous system tissue following exposure; identified temporal and spatial progression of damage in small animal models.
+Evaluated galantamine and huperzine A as potential replacements for pyridostigmine bromide.
+Testing putative compounds to ameliorate seizures and reduce lethality using established animal models; tested compounds included FDA-licensed drugs and proprietary compounds obtained through a Cooperative Research and Development Agreement.
+Identified and tested several potential compounds in small-animal seizure models for medical countermeasures for nontraditional agents.
+Investigated basic mode and mechanism of injury for nontraditional agents.
+
+USAMRICD and USAMRIID have developed a number of training programs in chemical and biological defense, as follows.
+
+Field Identification of Biological Warfare Agents Course - This course was designed to allow students to set up, maintain, and operate a deployable laboratory under field conditions.
+Field Management of Chemical and Biological Casualties Course - This course focuses on emergency treatment, triage, decontamination, and evacuation of casualties.
+Hospital Management of Chemical, Biological, Radiological/Nuclear, and Explosive Incident Course - This course focuses on diagnosis, treatment, and incident management in response to mass casualty events of all types, including incidents involving weapons of mass destruction.
+Medical Management of Chemical and Biological Casualties Course - This course focuses on the pathophysiology, diagnosis, and treatment of chemical and biological casualties.
+Computer-Based Training - Computer modules offer service members a variety of interactive, multimedia learning courses both online and in compact disc format.
+
+The CDMRP originated in 1992 via a Congressional appropriation to foster novel approaches to biomedical research in response to the expressed needs of its stakeholders-the American public, the military, and Congress.
+
+The CDMRP fills research gaps by funding high impact, high risk and high gain projects that other agencies may not venture to fund. While individual programs are unique in their focus, all of the programs managed by the CDMRP share the common goal of advancing paradigm shifting research, solutions that will lead to cures or improvements in patient care, or breakthrough technologies and resources for clinical benefit. The CDMRP strives to transform healthcare for Service Members and the American public through innovative and impactful research.
+
+
+
+
+
+
+
